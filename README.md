@@ -12,7 +12,7 @@ Frontend: HTML, CSS, JQUERY, JAVASCRIPT, PHP
 This type of software is suitable for all colleges.
 Separate division is provided to maintain Students, Teachers record, Events and
 Discussion etc.
-*Public: OCP, since an open project needs public communications.
+"*"-Public: OCP, since an open project needs public communications.
 *Approachable: Needs to be accessible to potential new community members, ideally
 without making them learn something new.
 *Asynchronous: with people all around the world, the primary communications need to be
