@@ -12,17 +12,17 @@ Frontend: HTML, CSS, JQUERY, JAVASCRIPT, PHP
 This type of software is suitable for all colleges.
 Separate division is provided to maintain Students, Teachers record, Events and
 Discussion etc.
- Public: OCP, since an open project needs public communications.
- Approachable: Needs to be accessible to potential new community members, ideally
+*Public: OCP, since an open project needs public communications.
+*Approachable: Needs to be accessible to potential new community members, ideally
 without making them learn something new.
- Asynchronous: with people all around the world, the primary communications need to be
+*Asynchronous: with people all around the world, the primary communications need to be
 not-real time
- Multiple participants: Multiple User Participation
- Archived: Store People Opinion and feedback
- Searchable: Easy Search
- Filterable: no-one can read every project communication; there needs to be a way of
+*Multiple participants: Multiple User Participation
+*Archived: Store People Opinion and feedback
+*Searchable: Easy Search
+*Filterable: no-one can read every project communication; there needs to be a way of
 splitting by topic
- Accessible: needs to be accessible to new and future disabled community members.
+*Accessible: needs to be accessible to new and future disabled community members.
 # Objectives
 The main objective of this system, is to reduce the consumption of time during
 maintaining the records of college. Separate divisions are providing to maintain the records of
